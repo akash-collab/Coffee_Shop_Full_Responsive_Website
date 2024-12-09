@@ -1,0 +1,33 @@
+<!-- link google fonts  -->
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap" rel="stylesheet">
+<!-- link normalize file  -->
+<link rel="stylesheet" href="CSS/normalize.css">
+<!-- link font awesome -->
+<link rel="stylesheet" href="CSS/all.min.css">
+<!-- link main style sheet  -->
+<link rel="stylesheet" href="CSS/main.css">
+
+<!-- link file javaScript  -->
+<script src="js/app.js"></script>
+
+home text
+Freshly roasted, perfectly brewed. Let every cup tell <br> a story of quality and passion for the perfect coffee.
+
+about section text
+At our coffee house, every cup tells a story. From the mountains where our beans are handpicked to the hands that craft them into your favorite brews, we prioritize quality and care in every step.
+We focus on providing freshly brewed, ethically sourced coffee that connects communities and satisfies your soul. Whether it’s a quiet moment to yourself or a shared experience, our coffee makes it memorable.
+
+review section text
+This coffee is amazing! The aroma alone wakes me up, and the flavor is rich and smooth. I've tried many brands, but this one truly stands out for its quality and taste. Highly recommended for any coffee lover!
+
+blog section text
+Discover the art of brewing a perfect cup and learn about unique coffee flavors that invigorate the senses.
+
+faq section texts
+We offer a variety of coffee options, including espresso, cappuccino, latte, mocha, and cold brews. We also have seasonal specialties!
+Yes, we offer plant-based milk alternatives such as almond, oat, and soy milk. All our syrups are also vegan-friendly.
+Absolutely! We sell premium whole beans and ground coffee in a variety of roasts and blends. You can also subscribe for monthly deliveries.
+Our coffee beans are ethically sourced from top-quality farms in regions such as Colombia, Ethiopia, and Brazil, ensuring rich flavors and sustainability.
+Yes! You can customize your coffee by choosing your preferred milk, sweetness level, size, and add-ons like extra shots or flavor syrups.
+Yes, we have a rewards program where you earn points for every purchase. Points can be redeemed for free drinks, discounts, and special gifts.
+Yes, you can order online for both pickup and delivery through our website or mobile app. We also partner with popular delivery platforms.
