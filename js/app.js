@@ -1,6 +1,6 @@
 
-// search bar
 
+// search bar
 let searchForm = document.querySelector(".search-form");
 
 // show search box
